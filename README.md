@@ -1,3 +1,9 @@
+En esta carpeta se aplican las librerias de React y Redux para hacer un formulario que permite registrar un texto, cada vez que se oprime el boton de crear tarea en el Form, se genera una linea que contiene la informacion y que permite borrar la linea, o marcarla como realizada despues de lo cual se cambia el color del texto de rojo a verde.
+
+se debe acceder a la carpeta y despues ejecutar NPM start.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
